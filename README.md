@@ -51,9 +51,31 @@ Raw data → uploaded in data/raw_dataset.xlsx
 Cleaned data → uploaded in data/cleaned_dataset.xlsx
 
 Analysis / Key Insights
+1. CTR vs Conversion Rate:
+• 45–49 F had highest CTR (0.025%) but lowest conversion rate (1%)
+• 30–34 M had balanced CTR and highest conversion rate (6%)
+2. CPA Comparison:
+• Lowest CPA: 30–34 M ($29.05)
+• Highest CPA: 45–49 F ($123.56)
+3. CPM Comparison:
+• Lowest CPM: 30–34 M ($0.21)
+• Highest CPM: 45–49 F ($0.35)
+• CPA vs CPM Scatter Plot:
+• Clear cost-efficiency clusters
+• Younger male segments outperform older female groups
 
-Charts / Visuals
+## Charts / Screenshots
+### Approved Conversions vs CPA by Age-Gender
+![Approved Conversions vs CPA](charts/ss_Approved_Conversions_Vs_CPA_By_Age-Gender.png)
+### CPA by Age-Gender
 ![CPA by Age-Gender](charts/ss_CPA_By_Age-Gender.png)
+### CPA vs Conversion Rate
+![CPA vs Conversion Rate](charts/ss_CPA_Vs_Conversion_Rate.png)
+### CPM by Age-Gender
+![CPM by Age-Gender](charts/ss_CPM_By_Age-Gender.png)
+### CTR vs Conversion Rate by Age-Gender
+![CTR vs Conversion Rate](charts/ss_CTR_Vs_Conversion_Rate_By_Age-Gender.png)
+Added all chart screenshots
 
 Reports / Presentations
 PDF → docs/project.pdf
