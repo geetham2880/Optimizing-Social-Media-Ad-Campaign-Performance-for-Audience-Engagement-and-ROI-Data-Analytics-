@@ -1,1 +1,58 @@
 # Optimizing-Social-Media-Ad-Campaign-Performance-for-Audience-Engagement-and-ROI-Data-Analytics-
+Project Overview
+As a Data Analyst at TrendWave, a consumer goods company launching its flagship product line, the task is to conduct a comprehensive analysis of social media advertising campaigns.
+The goal is to translate raw campaign data into actionable insights that help the marketing team understand channel performance, audience engagement, and cost efficiency.
+The ultimate objective is to maximize ROI and guide future ad budget allocations through data-driven recommendations.
+
+Business Context
+TrendWave has run paid campaigns across Facebook, Instagram, Twitter, and LinkedIn for three months.
+Data includes daily impressions, clicks, conversions, ad spend, and demographic breakdowns.
+Despite substantial investment, there is no clarity on which platforms, creatives, and audience segments deliver the best value.
+With quarterly targets approaching, the company requires an analytical framework to:
+• Allocate ad budgets across platforms for optimal CPA
+• Compare performance across audience demographics and segments
+• Identify underperforming campaigns for reallocation or optimization
+• Detect time-based performance trends and seasonality
+• Provide evidence-backed recommendations for the next product launch
+
+Problem Statement
+Primary Challenge: Lack of a performance analysis framework to evaluate social media channels, quantify the impact of ad spend on conversions, and optimize targeting strategies.
+This results in suboptimal ROI and missed growth opportunities.
+
+Key Questions to Address
+Which age and gender groups are responsible for the highest sales and ad spend, and how does their conversion efficiency compare?
+How effective is the campaign in converting impressions into clicks and clicks into sales (CTR and Conversion Rate)?
+Are there significant differences in CPA and CPM between demographic segments, and what does this imply for budget optimization?
+
+KPIs to Generate
+• CPM (Cost per Mille): Cost of 1,000 impressions
+• CPC (Cost per Click): Cost of each click
+• CTR (Click-Through Rate): Percentage of impressions converted into clicks
+• CPA (Cost per Acquisition): Cost of acquiring a new customer
+
+About the Dataset
+Name: Optimizing Social Media Ad Campaign Performance for Audience Engagement and ROI
+Variables:
+• ad_id – Unique ID for each ad
+• xyzcampaignid – Campaign ID for XYZ company
+• fbcampaignid – Facebook campaign tracking ID
+• age – Age group of the person shown the ad
+• gender – Gender of the person shown the ad
+• interest – Interest category code (from Facebook profile)
+• impressions – Number of times the ad was shown
+• clicks – Number of ad clicks
+• spent – Amount spent on the ad
+• total_conversion – Number of people who enquired about the product
+• approved_conversion – Number of people who bought the product
+
+Tools and Technologies
+• Python (Pandas, NumPy, Matplotlib, Seaborn)
+• Excel / Google Sheets
+• Jupyter Notebook
+• Power BI / Tableau
+
+Expected Outcomes
+• Identify high-performing demographic segments
+• Optimize ad spend to reduce CPA and CPC
+• Detect seasonal trends in engagement
+• Provide strategic recommendations for future campaigns
