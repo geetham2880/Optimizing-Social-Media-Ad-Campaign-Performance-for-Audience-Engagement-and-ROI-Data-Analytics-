@@ -53,6 +53,7 @@ Cleaned data → uploaded in data/cleaned_dataset.xlsx
 Analysis / Key Insights
 
 Charts / Visuals
+![CPA by Age-Gender](charts/ss_CPA_By_Age-Gender.png)
 
 Reports / Presentations
 PDF → docs/project.pdf
